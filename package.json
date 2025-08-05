@@ -1,0 +1,23 @@
+{
+  "name": "playwright-pom-typescript-project",
+  "version": "1.0.0",
+  "description": "🚀 Playwright + TypeScript test automation framework with Page Object Model (POM) pattern. Includes best practices for scalable e2e testing.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QA-Master505/playwright-pom-typescript-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/QA-Master505/playwright-pom-typescript-project/issues"
+  },
+  "homepage": "https://github.com/QA-Master505/playwright-pom-typescript-project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.0"
+  }
+}
